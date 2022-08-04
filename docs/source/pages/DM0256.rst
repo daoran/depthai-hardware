@@ -8,8 +8,7 @@ OAK-FFC-ToF-VGA
 Overview
 ********
 
-The **OAK-FFC-ToF-VGA** is a carrier board for `Samsung's 33D ToF <https://semiconductor.samsung.com/image-sensor/vision-sensor/isocell-vizion-33d/>`__
-sesnor. Samsung also announced that they plan including this sensor in their smartphones.
+The **OAK-FFC-ToF-VGA** is a carrier board for a VGA resolution ToF (Time-of-Flight) camera sensor.
 
 This FFC camera board and is designed to be compatible with :ref:`OAK-FFC-3P`, :ref:`OAK-FFC-4P`, and
 :ref:`DepthAI RPi HAT <DepthAI RPi HAT Baseboard>` baseboards.
@@ -33,8 +32,6 @@ Sensor specifications
 
    * - Specs
      - Value
-   * - ToF Sensor
-     - Samsung's 33D
    * - Resolution
      - 640x480 (VGA)
    * - Depth range
